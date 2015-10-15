@@ -9,6 +9,10 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongkongkiwi/nzbget-api.git"
+  },
   "author": "Andy Savage <andy@savage.hk> (http://andy.savage.hk/)",
   "license": "MIT",
   "keywords": [
